@@ -1,0 +1,12 @@
+name: 063-superzip-example
+title: 063-superzip-example
+username:
+account: dalozano
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2558187
+bundleId: 3378198
+url: https://dalozano.shinyapps.io/063-superzip-example/
+when: 1594420446.80178
+asMultiple: FALSE
+asStatic: FALSE
